@@ -38,10 +38,12 @@ This is an unordered list
 [How Does Nature Impact Our Wellbeing?](https://www.takingcharge.csh.umn.edu/how-does-nature-impact-our-wellbeing)
 
 # Tables 
+
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
-# Emoji 
+# Emoji
+
 :confused:	
